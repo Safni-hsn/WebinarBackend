@@ -6,8 +6,8 @@ using System.Collections.Generic;
 
 public class LiveKitTokenService
 {
-    private const string ApiKey = "devkey"; 
-    private const string ApiSecret = "hopemadridwillwincopadelreyfinalthisyear";
+    private const string ApiKey = "APIPovSRheJRisX"; 
+    private const string ApiSecret = "XdqJeNNXUEsl1zcvp0U7nowBM66jonIRjjOJPzIwPcb";
 
     public string GenerateToken(string identity, string roomName, bool isHost)
     {
