@@ -1,0 +1,6 @@
+@WebinarBackend_HostAddress = http://localhost:5177
+
+GET {{WebinarBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
